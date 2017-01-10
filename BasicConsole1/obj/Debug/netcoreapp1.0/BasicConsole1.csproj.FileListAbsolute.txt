@@ -1,0 +1,6 @@
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/bin/Debug/netcoreapp1.0/BasicConsole1.dll
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/bin/Debug/netcoreapp1.0/BasicConsole1.pdb
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/obj/Debug/netcoreapp1.0/BasicConsole1.csprojResolveAssemblyReference.cache
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/obj/Debug/netcoreapp1.0/BasicConsole1.AssemblyInfo.cs
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/obj/Debug/netcoreapp1.0/BasicConsole1.dll
+/Users/adm1n1strat0r/Projects/BasicConsole1/BasicConsole1/obj/Debug/netcoreapp1.0/BasicConsole1.pdb
